@@ -199,4 +199,4 @@ This repository serves as the official landing page for Navigon Fresh. The softw
 **Get the most recent version of Navigon Fresh today!**
 
 ---
-**Last updated:** 2026-11-09 04:48:09 UTC
+**Last updated:** 2026-11-09 13:38:32 UTC
